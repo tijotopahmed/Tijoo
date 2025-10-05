@@ -1,87 +1,99 @@
-# Tijotop Ahmed Binjibon — Data Analyst | Biomathematics Enthusiast
+# Tijotop Ahmed Binjibon
 
-👋 Hi — I’m **Tijotop Ahmed Binjibon**, a Mathematical model learning and working in data analysis. I combine hands‑on lab experience and mathematical modelling with practical data skills in **R**, **Python**, and **SQL** to extract insights from real-world scientific and business datasets.
+**Data Analyst | Biomathematics Researcher**
 
----
-
-## 🔎 About me
-
-* **Education:** M.Sc. in Mathematics — *University of Manitoba, Canada* (2025)
-* **Research / Interests:** Mathematical modelling of cytoskeletal dynamics, neurofilament transport in zebrafish, biomedical data analysis, and reproducible data pipelines.
-* I am building a portfolio of projects that demonstrate clean data work, clear visual storytelling, and reproducible analysis.
+I'm a mathematical modeler and data analyst who bridges the gap between theoretical mathematics and practical data science. My work focuses on extracting actionable insights from complex datasets using statistical rigor and modern data tools.
 
 ---
 
-## 🧰 Skills & Tools
+## 🎓 Education
 
-* **Languages:** Python, R, SQL
-* **Python ecosystem:** pandas, NumPy, scikit‑learn, Jupyter
-* **R ecosystem:** tidyverse (dplyr, tidyr), ggplot2, RMarkdown, Shiny
-* **Visualization:** Matplotlib, Seaborn, ggplot2, RShiny, Power BI (basic)
-* **Other:** Git & GitHub, Excel, RStudio
+**M.Sc. in Mathematics** | University of Manitoba, Canada | 2025  
+Focus: Mathematical modelling of cytoskeletal dynamics and neurofilament transport in zebrafish
 
 ---
 
-## 📂 Repository structure (top-level)
+## 💼 What I Do
 
-```
-data-science-portfolio/
-├─ README.md                      # (this file)
-├─ R_Projects/                    # R scripts, RMarkdown, Shiny apps
-├─ Python_Projects/                # Jupyter notebooks and scripts
-├─ data/                           # small sample datasets (where allowed)
-└─ Certificates/                   # scans or copies of short courses
-```
+I specialize in transforming raw data into clear insights through:
 
----
+- **Biomedical Data Analysis** — Working with clinical and laboratory datasets to identify patterns and support research decisions
+- **Mathematical Modelling** — Building computational models to simulate biological systems and validate experimental findings
+- **Reproducible Workflows** — Creating clean, documented analysis pipelines that others can understand and build upon
 
-## ⭐ Featured projects
-
-* **Clinical Data Analysis (R)** — Exploratory analysis of clinical/lab data with reproducible RMarkdown reports and ggplot2 visualizations. (`R_Projects/Clinical_Data_Analysis`)
-* **Sales Data EDA (Python)** — End‑to‑end exploratory data analysis in a Jupyter Notebook: cleaning, visualizations, and business insights. (`Python_Projects/EDA_Sales_Data`)
-* **Predictive Model — Diabetes (Python)** — Simple classification pipeline and model evaluation using scikit‑learn. (`Python_Projects/Machine_Learning_Model`)
-
-> Each project folder contains: dataset (or download instructions), a clear README, code (notebook or script), and visuals / results.
+My approach combines scientific rigor with practical business sense, making complex data accessible to both technical and non-technical stakeholders.
 
 ---
 
-## 📌 How to run or view projects locally
+## 🛠️ Technical Skills
 
-1. Clone the repo:
+**Programming & Analysis**  
+Python • R • SQL
+
+**Python Stack**  
+pandas • NumPy • scikit-learn • Matplotlib • Seaborn • Jupyter
+
+**R Stack**  
+tidyverse (dplyr, ggplot2, tidyr) • RMarkdown • Shiny
+
+**Tools & Platforms**  
+Git & GitHub • RStudio • Power BI • Excel
+
+---
+
+## 📊 Featured Projects
+
+### [Clinical Data Analysis](R_Projects/Clinical_Data_Analysis)
+Comprehensive exploratory analysis of clinical laboratory data with reproducible RMarkdown reports. Features advanced ggplot2 visualizations and statistical summaries that inform clinical decision-making.
+
+**Tech:** R, ggplot2, RMarkdown
+
+### [Sales Data EDA](Python_Projects/EDA_Sales_Data)
+End-to-end exploratory data analysis examining sales patterns and customer behavior. Includes data cleaning pipeline, interactive visualizations, and actionable business recommendations.
+
+**Tech:** Python, pandas, Seaborn, Jupyter
+
+### [Diabetes Prediction Model](Python_Projects/Machine_Learning_Model)
+Classification model predicting diabetes risk using patient health metrics. Demonstrates full ML pipeline from data preprocessing through model evaluation and interpretation.
+
+**Tech:** Python, scikit-learn, pandas
+
+> 📁 Each project includes: dataset (or download instructions), detailed README, well-commented code, and visual outputs
+
+---
+
+## 🎯 My Approach
+
+Every project in this portfolio demonstrates:
+
+✓ **Clear Documentation** — Code comments and written summaries that explain the "why" behind decisions  
+✓ **Transparent Methods** — Step-by-step data cleaning and transformation with rationale  
+✓ **Effective Visualization** — Charts and graphs designed to communicate, not just display data  
+✓ **Actionable Insights** — Plain-language conclusions that drive decisions
+
+---
+
+## 🚀 Getting Started
 
 ```bash
+# Clone this repository
 git clone https://github.com/<your-username>/data-science-portfolio.git
 cd data-science-portfolio
+
+# For Python projects (recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+# Open Jupyter notebooks or RStudio and navigate to project folders
 ```
 
-2. Create a Python virtual environment (optional but recommended):
-
-```bash
-python -m venv .venv
-source .venv/bin/activate   # macOS / Linux
-.\.venv\Scripts\activate  # Windows
-pip install -r requirements.txt  # if provided
-```
-
-3. Open Jupyter notebooks (Python projects) or RMarkdown/RStudio (R projects) and follow the project README instructions.
-
 ---
 
-## 📜 What I aim to show in each project
+## 📬 Let's Connect
 
-* **Reproducible code** with clear comments and a short written summary.
-* **Data cleaning** steps and rationale.
-* **Visualizations** that communicate the main findings.
-* **Short, plain‑English conclusions** and next steps.
-
----
-
-## 📫 Contact
-
-* **Email:** [tijotopahmed22@gmail.com](mailto:tijotopahmed22@gmail.com)
-* LinkedIn: \[add your LinkedIn URL]
-* GitHub: [https://github.com/](https://github.com/)<your-username>
+**Email:** tijotopahmed22@gmail.com  
+**LinkedIn:** [Your LinkedIn Profile]  
+**GitHub:** [github.com/your-username](https://github.com/your-username)
 
 ---
-
-
